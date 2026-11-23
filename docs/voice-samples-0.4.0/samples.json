@@ -1,0 +1,92 @@
+[
+  {
+    "model": "Kokoro v1.1-zh INT8",
+    "voice": "local:kokoro-v1.1:zf_001",
+    "title": "晓禾 · 女声",
+    "text": "好啦，任务完成了，来看看结果吧。",
+    "file": "01-zf_001.wav",
+    "sample_rate": 24000,
+    "seconds": 5.575
+  },
+  {
+    "model": "Kokoro v1.1-zh INT8",
+    "voice": "local:kokoro-v1.1:zf_001",
+    "title": "晓禾 · 女声 · 等待确认",
+    "text": "需要你确认一下，我们再继续。",
+    "file": "01-ask.wav",
+    "sample_rate": 24000,
+    "seconds": 4.6
+  },
+  {
+    "model": "Kokoro v1.1-zh INT8",
+    "voice": "local:kokoro-v1.1:zm_010",
+    "title": "云舟 · 男声",
+    "text": "好啦，任务完成了，来看看结果吧。",
+    "file": "02-zm_010.wav",
+    "sample_rate": 24000,
+    "seconds": 5.575
+  },
+  {
+    "model": "Kokoro v1.1-zh INT8",
+    "voice": "local:kokoro-v1.1:zm_010",
+    "title": "云舟 · 男声 · 等待确认",
+    "text": "需要你确认一下，我们再继续。",
+    "file": "02-ask.wav",
+    "sample_rate": 24000,
+    "seconds": 4.525
+  },
+  {
+    "model": "Kokoro v1.1-zh INT8",
+    "voice": "local:kokoro-v1.1:zf_007",
+    "title": "晴音 · 女声",
+    "text": "好啦，任务完成了，来看看结果吧。",
+    "file": "03-zf_007.wav",
+    "sample_rate": 24000,
+    "seconds": 6.15
+  },
+  {
+    "model": "Kokoro v1.1-zh INT8",
+    "voice": "local:kokoro-v1.1:zm_041",
+    "title": "远川 · 男声",
+    "text": "好啦，任务完成了，来看看结果吧。",
+    "file": "04-zm_041.wav",
+    "sample_rate": 24000,
+    "seconds": 5.825
+  },
+  {
+    "model": "Kokoro v1.1-zh INT8",
+    "voice": "local:kokoro-v1.1:zf_032",
+    "title": "知夏 · 女声",
+    "text": "好啦，任务完成了，来看看结果吧。",
+    "file": "05-zf_032.wav",
+    "sample_rate": 24000,
+    "seconds": 6.375
+  },
+  {
+    "model": "Kokoro v1.1-zh INT8",
+    "voice": "local:kokoro-v1.1:zf_017",
+    "title": "若晴 · 女声",
+    "text": "好啦，任务完成了，来看看结果吧。",
+    "file": "06-zf_017.wav",
+    "sample_rate": 24000,
+    "seconds": 5.875
+  },
+  {
+    "model": "AISHELL3 VITS",
+    "voice": "local:aishell3:33",
+    "title": "旧版 · 听晓",
+    "text": "好啦，任务完成了，来看看结果吧。",
+    "file": "old-33.wav",
+    "sample_rate": 8000,
+    "seconds": 4.576
+  },
+  {
+    "model": "AISHELL3 VITS",
+    "voice": "local:aishell3:10",
+    "title": "旧版 · 景川",
+    "text": "好啦，任务完成了，来看看结果吧。",
+    "file": "old-10.wav",
+    "sample_rate": 8000,
+    "seconds": 3.936
+  }
+]

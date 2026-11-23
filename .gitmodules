@@ -1,0 +1,3 @@
+[submodule "plugins/agent-voice"]
+	path = plugins/agent-voice
+	url = https://github.com/esseener/agent-voice.git

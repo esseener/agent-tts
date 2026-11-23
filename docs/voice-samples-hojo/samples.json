@@ -1,0 +1,68 @@
+{
+  "version": "Agent Voice 0.4.2 (Rust native)",
+  "model_files_verified": 10,
+  "kokoro_default_unchanged": true,
+  "isolated_home_unchanged": true,
+  "samples": [
+    {
+      "voice": "local:kokoro-v1.1:zf_001",
+      "title": "晓禾 · 女声",
+      "model": "Kokoro v1.1-zh INT8",
+      "text": "好啦，任务完成了，来看看结果吧。",
+      "file": "zf_001.wav",
+      "sample_rate": 24000,
+      "seconds": 5.575,
+      "sha256": "8e2fd5459abd5b4a673cecc07f8a74990146aec10333b7a4cff418758f851493"
+    },
+    {
+      "voice": "local:hojo-40m:hojo_zh_f_01",
+      "title": "Hojo 女声 01",
+      "model": "Hojo-TTS-Light-40M-V2",
+      "text": "好啦，任务完成了，来看看结果吧。",
+      "file": "hojo_zh_f_01.wav",
+      "sample_rate": 24000,
+      "seconds": 3.96,
+      "sha256": "21143179620d961d27b83ff2890114867f784832103d8c41cd67ee737a0306b5"
+    },
+    {
+      "voice": "local:hojo-40m:hojo_zh_f_02",
+      "title": "Hojo 女声 02",
+      "model": "Hojo-TTS-Light-40M-V2",
+      "text": "好啦，任务完成了，来看看结果吧。",
+      "file": "hojo_zh_f_02.wav",
+      "sample_rate": 24000,
+      "seconds": 3.06,
+      "sha256": "4c3b153939439d73512f6b5c70644e3a691cd070d0f295f429fbc802178f36f1"
+    },
+    {
+      "voice": "local:kokoro-v1.1:zm_010",
+      "title": "云舟 · 男声",
+      "model": "Kokoro v1.1-zh INT8",
+      "text": "好啦，任务完成了，来看看结果吧。",
+      "file": "zm_010.wav",
+      "sample_rate": 24000,
+      "seconds": 5.575,
+      "sha256": "a6b42c1ed3adbccbd7b8444a581651da7dec98d1e30b185f0d501d45813a96ec"
+    },
+    {
+      "voice": "local:hojo-40m:hojo_zh_m_01",
+      "title": "Hojo 男声 01",
+      "model": "Hojo-TTS-Light-40M-V2",
+      "text": "好啦，任务完成了，来看看结果吧。",
+      "file": "hojo_zh_m_01.wav",
+      "sample_rate": 24000,
+      "seconds": 4.38,
+      "sha256": "b3113e9fcd541278b465da50bf6bdc74e758050972ad0716da46518da16763c2"
+    },
+    {
+      "voice": "local:hojo-40m:hojo_zh_m_02",
+      "title": "Hojo 男声 02",
+      "model": "Hojo-TTS-Light-40M-V2",
+      "text": "好啦，任务完成了，来看看结果吧。",
+      "file": "hojo_zh_m_02.wav",
+      "sample_rate": 24000,
+      "seconds": 3.52,
+      "sha256": "dbc164dc3d269da42c6d5b4b8f2f22409ca25411d35d16e91ab34bbfa9785bf1"
+    }
+  ]
+}

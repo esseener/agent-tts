@@ -1,0 +1,1027 @@
+{
+  "label": "fixed",
+  "exe_sha256": "b66c4de8ffc8e5afbbcadb41236c841d39e6bb87aa89437096204114eba818fb",
+  "method": "Vosk small-cn-0.22 unconstrained recognition; objective aid, not a listening quality score.",
+  "qa_model_included_in_app": false,
+  "samples": 96,
+  "rankings": [
+    {
+      "sid": 33,
+      "chinese_cer": 0.15306122448979592,
+      "all_cer": 0.2876712328767123,
+      "min_seconds": 3.388,
+      "max_seconds": 4.134
+    },
+    {
+      "sid": 103,
+      "chinese_cer": 0.19387755102040816,
+      "all_cer": 0.2534246575342466,
+      "min_seconds": 3.09,
+      "max_seconds": 3.794
+    },
+    {
+      "sid": 10,
+      "chinese_cer": 0.25510204081632654,
+      "all_cer": 0.3835616438356164,
+      "min_seconds": 2.56,
+      "max_seconds": 3.27
+    },
+    {
+      "sid": 45,
+      "chinese_cer": 0.25510204081632654,
+      "all_cer": 0.3287671232876712,
+      "min_seconds": 2.96,
+      "max_seconds": 3.72
+    },
+    {
+      "sid": 21,
+      "chinese_cer": 0.2857142857142857,
+      "all_cer": 0.3287671232876712,
+      "min_seconds": 2.8,
+      "max_seconds": 3.994
+    },
+    {
+      "sid": 41,
+      "chinese_cer": 0.35714285714285715,
+      "all_cer": 0.4315068493150685,
+      "min_seconds": 2.99,
+      "max_seconds": 3.642
+    },
+    {
+      "sid": 66,
+      "chinese_cer": 0.37755102040816324,
+      "all_cer": 0.3767123287671233,
+      "min_seconds": 2.42,
+      "max_seconds": 3.68
+    },
+    {
+      "sid": 99,
+      "chinese_cer": 0.5612244897959183,
+      "all_cer": 0.5616438356164384,
+      "min_seconds": 2.75,
+      "max_seconds": 3.294
+    }
+  ],
+  "records": [
+    {
+      "sid": 10,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\10-0-0.wav",
+      "seconds": 2.66,
+      "recognized": "一一定完成请检查结果",
+      "character_errors": 4,
+      "character_error_rate": 0.36363636363636365
+    },
+    {
+      "sid": 10,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\10-0-1.wav",
+      "seconds": 2.74,
+      "recognized": "任务已经完成评点啥点我",
+      "character_errors": 5,
+      "character_error_rate": 0.45454545454545453
+    },
+    {
+      "sid": 10,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\10-1-0.wav",
+      "seconds": 2.7555,
+      "recognized": "发生错误请检查日之后同事",
+      "character_errors": 3,
+      "character_error_rate": 0.25
+    },
+    {
+      "sid": 10,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\10-1-1.wav",
+      "seconds": 2.86,
+      "recognized": "发生错误先检查着之后重视",
+      "character_errors": 4,
+      "character_error_rate": 0.3333333333333333
+    },
+    {
+      "sid": 10,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\10-2-0.wav",
+      "seconds": 2.65,
+      "recognized": "需要你的确认听讲得下一步",
+      "character_errors": 3,
+      "character_error_rate": 0.25
+    },
+    {
+      "sid": 10,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\10-2-1.wav",
+      "seconds": 2.72,
+      "recognized": "去掉你的确认听选择下一步",
+      "character_errors": 3,
+      "character_error_rate": 0.25
+    },
+    {
+      "sid": 10,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\10-3-0.wav",
+      "seconds": 3.0,
+      "recognized": "这任务已完成结果已经准备好的",
+      "character_errors": 2,
+      "character_error_rate": 0.14285714285714285
+    },
+    {
+      "sid": 10,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\10-3-1.wav",
+      "seconds": 3.22,
+      "recognized": "任务已完成结果已经准备好了",
+      "character_errors": 1,
+      "character_error_rate": 0.07142857142857142
+    },
+    {
+      "sid": 10,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\10-4-0.wav",
+      "seconds": 2.56,
+      "recognized": "我是扣得可质量完成了",
+      "character_errors": 5,
+      "character_error_rate": 0.45454545454545453
+    },
+    {
+      "sid": 10,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\10-4-1.wav",
+      "seconds": 2.6,
+      "recognized": "我是扣的可只有完成啊",
+      "character_errors": 6,
+      "character_error_rate": 0.5454545454545454
+    },
+    {
+      "sid": 10,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\10-5-0.wav",
+      "seconds": 3.15,
+      "recognized": "抛盘扣得执行接受结果以周迅",
+      "character_errors": 8,
+      "character_error_rate": 0.6153846153846154
+    },
+    {
+      "sid": 10,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\10-5-1.wav",
+      "seconds": 3.27,
+      "recognized": "工程扣的将学术见过一种去",
+      "character_errors": 12,
+      "character_error_rate": 0.9230769230769231
+    },
+    {
+      "sid": 21,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\21-0-0.wav",
+      "seconds": 3.18,
+      "recognized": "任务已经完成请检查结果",
+      "character_errors": 0,
+      "character_error_rate": 0.0
+    },
+    {
+      "sid": 21,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\21-0-1.wav",
+      "seconds": 3.2,
+      "recognized": "任务已经完成频现检查结果",
+      "character_errors": 2,
+      "character_error_rate": 0.18181818181818182
+    },
+    {
+      "sid": 21,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\21-1-0.wav",
+      "seconds": 3.59,
+      "recognized": "当中作物单日之后总是",
+      "character_errors": 10,
+      "character_error_rate": 0.8333333333333334
+    },
+    {
+      "sid": 21,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\21-1-1.wav",
+      "seconds": 3.548,
+      "recognized": "发生作物请检查日之后重视",
+      "character_errors": 4,
+      "character_error_rate": 0.3333333333333333
+    },
+    {
+      "sid": 21,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\21-2-0.wav",
+      "seconds": 2.8,
+      "recognized": "需要你的确认请选择站多",
+      "character_errors": 3,
+      "character_error_rate": 0.25
+    },
+    {
+      "sid": 21,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\21-2-1.wav",
+      "seconds": 3.0,
+      "recognized": "知道你的确认选择在不",
+      "character_errors": 6,
+      "character_error_rate": 0.5
+    },
+    {
+      "sid": 21,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\21-3-0.wav",
+      "seconds": 3.3,
+      "recognized": "任务已完成结果已经准备好了",
+      "character_errors": 1,
+      "character_error_rate": 0.07142857142857142
+    },
+    {
+      "sid": 21,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\21-3-1.wav",
+      "seconds": 3.41,
+      "recognized": "的任务已完成结果已经准备好",
+      "character_errors": 2,
+      "character_error_rate": 0.14285714285714285
+    },
+    {
+      "sid": 21,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\21-4-0.wav",
+      "seconds": 2.88,
+      "recognized": "我是扣的缂丝任务完成了",
+      "character_errors": 3,
+      "character_error_rate": 0.2727272727272727
+    },
+    {
+      "sid": 21,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\21-4-1.wav",
+      "seconds": 2.96,
+      "recognized": "我是够的和是任务完成了",
+      "character_errors": 4,
+      "character_error_rate": 0.36363636363636365
+    },
+    {
+      "sid": 21,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\21-5-0.wav",
+      "seconds": 3.994,
+      "recognized": "都空着执行结束结果以有序",
+      "character_errors": 7,
+      "character_error_rate": 0.5384615384615384
+    },
+    {
+      "sid": 21,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\21-5-1.wav",
+      "seconds": 3.798,
+      "recognized": "欧文透的执行别墅结果以就绪",
+      "character_errors": 6,
+      "character_error_rate": 0.46153846153846156
+    },
+    {
+      "sid": 33,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\33-0-0.wav",
+      "seconds": 3.536,
+      "recognized": "任务已经完成停电茶见过",
+      "character_errors": 5,
+      "character_error_rate": 0.45454545454545453
+    },
+    {
+      "sid": 33,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\33-0-1.wav",
+      "seconds": 3.434,
+      "recognized": "任务已经完成前检查结果",
+      "character_errors": 1,
+      "character_error_rate": 0.09090909090909091
+    },
+    {
+      "sid": 33,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\33-1-0.wav",
+      "seconds": 4.048,
+      "recognized": "发生错误请检查日志后中是",
+      "character_errors": 2,
+      "character_error_rate": 0.16666666666666666
+    },
+    {
+      "sid": 33,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\33-1-1.wav",
+      "seconds": 3.826,
+      "recognized": "发生错误请检查日后重视",
+      "character_errors": 2,
+      "character_error_rate": 0.16666666666666666
+    },
+    {
+      "sid": 33,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\33-2-0.wav",
+      "seconds": 3.512,
+      "recognized": "需要你的确认请选择下一步",
+      "character_errors": 0,
+      "character_error_rate": 0.0
+    },
+    {
+      "sid": 33,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\33-2-1.wav",
+      "seconds": 3.7,
+      "recognized": "需要你的确认前圈的下一步",
+      "character_errors": 3,
+      "character_error_rate": 0.25
+    },
+    {
+      "sid": 33,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\33-3-0.wav",
+      "seconds": 3.948,
+      "recognized": "对任务已完成结果已经准备好了",
+      "character_errors": 1,
+      "character_error_rate": 0.07142857142857142
+    },
+    {
+      "sid": 33,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\33-3-1.wav",
+      "seconds": 3.84,
+      "recognized": "分任务已完成结果已经准备好了",
+      "character_errors": 1,
+      "character_error_rate": 0.07142857142857142
+    },
+    {
+      "sid": 33,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\33-4-0.wav",
+      "seconds": 3.532,
+      "recognized": "我是靠的缂丝任务完成了",
+      "character_errors": 4,
+      "character_error_rate": 0.36363636363636365
+    },
+    {
+      "sid": 33,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\33-4-1.wav",
+      "seconds": 3.388,
+      "recognized": "我是扣的特此任务完成了",
+      "character_errors": 3,
+      "character_error_rate": 0.2727272727272727
+    },
+    {
+      "sid": 33,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\33-5-0.wav",
+      "seconds": 4.134,
+      "recognized": "高层扣着执行别墅结果以都去",
+      "character_errors": 8,
+      "character_error_rate": 0.6153846153846154
+    },
+    {
+      "sid": 33,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\33-5-1.wav",
+      "seconds": 3.894,
+      "recognized": "区纯靠的值钱别墅家过以就去",
+      "character_errors": 12,
+      "character_error_rate": 0.9230769230769231
+    },
+    {
+      "sid": 41,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\41-0-0.wav",
+      "seconds": 3.034,
+      "recognized": "任务已经完成便检查过",
+      "character_errors": 3,
+      "character_error_rate": 0.2727272727272727
+    },
+    {
+      "sid": 41,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\41-0-1.wav",
+      "seconds": 3.052,
+      "recognized": "任务已经完成给检查结果",
+      "character_errors": 1,
+      "character_error_rate": 0.09090909090909091
+    },
+    {
+      "sid": 41,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\41-1-0.wav",
+      "seconds": 3.29,
+      "recognized": "大声错误行检查是之后都是",
+      "character_errors": 7,
+      "character_error_rate": 0.5833333333333334
+    },
+    {
+      "sid": 41,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\41-1-1.wav",
+      "seconds": 3.502,
+      "recognized": "发生错误经检查日最后总是",
+      "character_errors": 4,
+      "character_error_rate": 0.3333333333333333
+    },
+    {
+      "sid": 41,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\41-2-0.wav",
+      "seconds": 3.256,
+      "recognized": "提到你的确认潜在的在一度",
+      "character_errors": 7,
+      "character_error_rate": 0.5833333333333334
+    },
+    {
+      "sid": 41,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\41-2-1.wav",
+      "seconds": 3.216,
+      "recognized": "需要你的最难权限的下一步",
+      "character_errors": 5,
+      "character_error_rate": 0.4166666666666667
+    },
+    {
+      "sid": 41,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\41-3-0.wav",
+      "seconds": 3.358,
+      "recognized": "任务你完成别国已经准备好了",
+      "character_errors": 4,
+      "character_error_rate": 0.2857142857142857
+    },
+    {
+      "sid": 41,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\41-3-1.wav",
+      "seconds": 3.466,
+      "recognized": "嗯任务一完成别国已经准备好了",
+      "character_errors": 4,
+      "character_error_rate": 0.2857142857142857
+    },
+    {
+      "sid": 41,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\41-4-0.wav",
+      "seconds": 2.99,
+      "recognized": "我是靠的扣子任务完成吗",
+      "character_errors": 5,
+      "character_error_rate": 0.45454545454545453
+    },
+    {
+      "sid": 41,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\41-4-1.wav",
+      "seconds": 3.198,
+      "recognized": "我说泡的缂丝任务完成了",
+      "character_errors": 5,
+      "character_error_rate": 0.45454545454545453
+    },
+    {
+      "sid": 41,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\41-5-0.wav",
+      "seconds": 3.506,
+      "recognized": "包房扣的指点结束结果移交手续",
+      "character_errors": 9,
+      "character_error_rate": 0.6923076923076923
+    },
+    {
+      "sid": 41,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\41-5-1.wav",
+      "seconds": 3.642,
+      "recognized": "包含靠着之间结束结果以周迅",
+      "character_errors": 9,
+      "character_error_rate": 0.6923076923076923
+    },
+    {
+      "sid": 45,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\45-0-0.wav",
+      "seconds": 3.1,
+      "recognized": "任务已经完成请检查结果",
+      "character_errors": 0,
+      "character_error_rate": 0.0
+    },
+    {
+      "sid": 45,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\45-0-1.wav",
+      "seconds": 3.39,
+      "recognized": "任务已经完成请检查结果",
+      "character_errors": 0,
+      "character_error_rate": 0.0
+    },
+    {
+      "sid": 45,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\45-1-0.wav",
+      "seconds": 3.04,
+      "recognized": "发生秦点开之后同事",
+      "character_errors": 9,
+      "character_error_rate": 0.75
+    },
+    {
+      "sid": 45,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\45-1-1.wav",
+      "seconds": 3.1,
+      "recognized": "发生服务检检查日寇总是",
+      "character_errors": 7,
+      "character_error_rate": 0.5833333333333334
+    },
+    {
+      "sid": 45,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\45-2-0.wav",
+      "seconds": 3.21,
+      "recognized": "需要你的确认请柬的下一步",
+      "character_errors": 2,
+      "character_error_rate": 0.16666666666666666
+    },
+    {
+      "sid": 45,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\45-2-1.wav",
+      "seconds": 3.174,
+      "recognized": "需要年限前选择下一步",
+      "character_errors": 5,
+      "character_error_rate": 0.4166666666666667
+    },
+    {
+      "sid": 45,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\45-3-0.wav",
+      "seconds": 3.696,
+      "recognized": "任务已完成结果已经准备好了",
+      "character_errors": 1,
+      "character_error_rate": 0.07142857142857142
+    },
+    {
+      "sid": 45,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\45-3-1.wav",
+      "seconds": 3.21,
+      "recognized": "任务已完成结果已经准备好了",
+      "character_errors": 1,
+      "character_error_rate": 0.07142857142857142
+    },
+    {
+      "sid": 45,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\45-4-0.wav",
+      "seconds": 3.202,
+      "recognized": "我是扣得撤资任务完成呢",
+      "character_errors": 4,
+      "character_error_rate": 0.36363636363636365
+    },
+    {
+      "sid": 45,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\45-4-1.wav",
+      "seconds": 2.96,
+      "recognized": "我是扣的可差任务完成了",
+      "character_errors": 3,
+      "character_error_rate": 0.2727272727272727
+    },
+    {
+      "sid": 45,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\45-5-0.wav",
+      "seconds": 3.72,
+      "recognized": "工棚盘库的执行结束结果以去",
+      "character_errors": 8,
+      "character_error_rate": 0.6153846153846154
+    },
+    {
+      "sid": 45,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\45-5-1.wav",
+      "seconds": 3.56,
+      "recognized": "包括很酷的指结束结果以就许",
+      "character_errors": 8,
+      "character_error_rate": 0.6153846153846154
+    },
+    {
+      "sid": 66,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\66-0-0.wav",
+      "seconds": 2.78,
+      "recognized": "用已经完成行检查结果",
+      "character_errors": 3,
+      "character_error_rate": 0.2727272727272727
+    },
+    {
+      "sid": 66,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\66-0-1.wav",
+      "seconds": 2.58,
+      "recognized": "任务已经完成请检查结果",
+      "character_errors": 0,
+      "character_error_rate": 0.0
+    },
+    {
+      "sid": 66,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\66-1-0.wav",
+      "seconds": 2.74,
+      "recognized": "发生暴秦检查与厚度是",
+      "character_errors": 8,
+      "character_error_rate": 0.6666666666666666
+    },
+    {
+      "sid": 66,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\66-1-1.wav",
+      "seconds": 2.63,
+      "recognized": "发生父亲检查日志最后重视",
+      "character_errors": 5,
+      "character_error_rate": 0.4166666666666667
+    },
+    {
+      "sid": 66,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\66-2-0.wav",
+      "seconds": 2.42,
+      "recognized": "你的去请选择下一步",
+      "character_errors": 4,
+      "character_error_rate": 0.3333333333333333
+    },
+    {
+      "sid": 66,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\66-2-1.wav",
+      "seconds": 2.63,
+      "recognized": "要命的是情景下一度",
+      "character_errors": 8,
+      "character_error_rate": 0.6666666666666666
+    },
+    {
+      "sid": 66,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\66-3-0.wav",
+      "seconds": 2.84,
+      "recognized": "任务已完成结汇坚持那口",
+      "character_errors": 8,
+      "character_error_rate": 0.5714285714285714
+    },
+    {
+      "sid": 66,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\66-3-1.wav",
+      "seconds": 2.98,
+      "recognized": "任务已完成结果已经准备好了",
+      "character_errors": 1,
+      "character_error_rate": 0.07142857142857142
+    },
+    {
+      "sid": 66,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\66-4-0.wav",
+      "seconds": 2.6,
+      "recognized": "我是空的刻字任务完成了",
+      "character_errors": 4,
+      "character_error_rate": 0.36363636363636365
+    },
+    {
+      "sid": 66,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\66-4-1.wav",
+      "seconds": 2.62,
+      "recognized": "我是空的刻字任务完成了",
+      "character_errors": 4,
+      "character_error_rate": 0.36363636363636365
+    },
+    {
+      "sid": 66,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\66-5-0.wav",
+      "seconds": 3.68,
+      "recognized": "封存扣个执行结束结果以就绪",
+      "character_errors": 4,
+      "character_error_rate": 0.3076923076923077
+    },
+    {
+      "sid": 66,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\66-5-1.wav",
+      "seconds": 3.17,
+      "recognized": "都很酷的执政结束结果就绪",
+      "character_errors": 6,
+      "character_error_rate": 0.46153846153846156
+    },
+    {
+      "sid": 99,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\99-0-0.wav",
+      "seconds": 2.754,
+      "recognized": "让我一定把他从检查结果",
+      "character_errors": 7,
+      "character_error_rate": 0.6363636363636364
+    },
+    {
+      "sid": 99,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\99-0-1.wav",
+      "seconds": 2.83,
+      "recognized": "药物一刁顽肠镜检查结果",
+      "character_errors": 7,
+      "character_error_rate": 0.6363636363636364
+    },
+    {
+      "sid": 99,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\99-1-0.wav",
+      "seconds": 2.942,
+      "recognized": "发生服务情感检查的时候是",
+      "character_errors": 9,
+      "character_error_rate": 0.75
+    },
+    {
+      "sid": 99,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\99-1-1.wav",
+      "seconds": 2.89,
+      "recognized": "八成否则检查之后总是",
+      "character_errors": 9,
+      "character_error_rate": 0.75
+    },
+    {
+      "sid": 99,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\99-2-0.wav",
+      "seconds": 2.852,
+      "recognized": "教育的偏爱天上的下一步",
+      "character_errors": 8,
+      "character_error_rate": 0.6666666666666666
+    },
+    {
+      "sid": 99,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\99-2-1.wav",
+      "seconds": 3.08,
+      "recognized": "小米的车展现场的下一步",
+      "character_errors": 8,
+      "character_error_rate": 0.6666666666666666
+    },
+    {
+      "sid": 99,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\99-3-0.wav",
+      "seconds": 3.086,
+      "recognized": "任务已完成结果一旦的那好啊",
+      "character_errors": 6,
+      "character_error_rate": 0.42857142857142855
+    },
+    {
+      "sid": 99,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\99-3-1.wav",
+      "seconds": 3.224,
+      "recognized": "任务已完成结果已经准备好了",
+      "character_errors": 1,
+      "character_error_rate": 0.07142857142857142
+    },
+    {
+      "sid": 99,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\99-4-0.wav",
+      "seconds": 2.75,
+      "recognized": "我是泡的可真要完成了",
+      "character_errors": 6,
+      "character_error_rate": 0.5454545454545454
+    },
+    {
+      "sid": 99,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\99-4-1.wav",
+      "seconds": 2.862,
+      "recognized": "我是靠的可知道完成了",
+      "character_errors": 6,
+      "character_error_rate": 0.5454545454545454
+    },
+    {
+      "sid": 99,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\99-5-0.wav",
+      "seconds": 3.294,
+      "recognized": "爆棚盘口之看结束结果以做事",
+      "character_errors": 9,
+      "character_error_rate": 0.6923076923076923
+    },
+    {
+      "sid": 99,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\99-5-1.wav",
+      "seconds": 3.186,
+      "recognized": "包含够的执行结束结果与就去",
+      "character_errors": 6,
+      "character_error_rate": 0.46153846153846156
+    },
+    {
+      "sid": 103,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\103-0-0.wav",
+      "seconds": 3.15,
+      "recognized": "任务已经完成经检查见过",
+      "character_errors": 3,
+      "character_error_rate": 0.2727272727272727
+    },
+    {
+      "sid": 103,
+      "text": "任务已经完成，请检查结果。",
+      "expected": "任务已经完成请检查结果",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\103-0-1.wav",
+      "seconds": 3.38,
+      "recognized": "任务已经完成行检查结果",
+      "character_errors": 1,
+      "character_error_rate": 0.09090909090909091
+    },
+    {
+      "sid": 103,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\103-1-0.wav",
+      "seconds": 3.28,
+      "recognized": "发生错误琴键他日志后总是",
+      "character_errors": 5,
+      "character_error_rate": 0.4166666666666667
+    },
+    {
+      "sid": 103,
+      "text": "发生错误，请检查日志后重试。",
+      "expected": "发生错误请检查日志后重试",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\103-1-1.wav",
+      "seconds": 3.13,
+      "recognized": "发生生父勤俭谈日寇重视",
+      "character_errors": 8,
+      "character_error_rate": 0.6666666666666666
+    },
+    {
+      "sid": 103,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\103-2-0.wav",
+      "seconds": 3.13,
+      "recognized": "需要你的确认请选择下一步",
+      "character_errors": 0,
+      "character_error_rate": 0.0
+    },
+    {
+      "sid": 103,
+      "text": "需要你的确认，请选择下一步。",
+      "expected": "需要你的确认请选择下一步",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\103-2-1.wav",
+      "seconds": 3.108,
+      "recognized": "需要你的确认请选择下一步",
+      "character_errors": 0,
+      "character_error_rate": 0.0
+    },
+    {
+      "sid": 103,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\103-3-0.wav",
+      "seconds": 3.698,
+      "recognized": "任务已完成结果已经准备好了",
+      "character_errors": 1,
+      "character_error_rate": 0.07142857142857142
+    },
+    {
+      "sid": 103,
+      "text": "子任务已完成，结果已经准备好了。",
+      "expected": "子任务已完成结果已经准备好了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\103-3-1.wav",
+      "seconds": 3.72,
+      "recognized": "任务已完成结果已经准备好了",
+      "character_errors": 1,
+      "character_error_rate": 0.07142857142857142
+    },
+    {
+      "sid": 103,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\103-4-0.wav",
+      "seconds": 3.09,
+      "recognized": "我是靠着缂丝任务完成了",
+      "character_errors": 4,
+      "character_error_rate": 0.36363636363636365
+    },
+    {
+      "sid": 103,
+      "text": "我是 codex，任务完成了。",
+      "expected": "我是扣德克斯任务完成了",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\103-4-1.wav",
+      "seconds": 3.122,
+      "recognized": "我是扣的缂丝任务完成了",
+      "character_errors": 3,
+      "character_error_rate": 0.2727272727272727
+    },
+    {
+      "sid": 103,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\103-5-0.wav",
+      "seconds": 3.794,
+      "recognized": "工棚后的之间结束结果一就绪",
+      "character_errors": 7,
+      "character_error_rate": 0.5384615384615384
+    },
+    {
+      "sid": 103,
+      "text": "open code 执行结束，结果已就绪。",
+      "expected": "欧盆扣德执行结束结果已就绪",
+      "path": "C:\\Users\\Administrator\\Downloads\\agent tts\\.build\\qa\\voice-readability\\fixed\\103-5-1.wav",
+      "seconds": 3.57,
+      "recognized": "都很扣得执行结束结果以就绪",
+      "character_errors": 4,
+      "character_error_rate": 0.3076923076923077
+    }
+  ]
+}

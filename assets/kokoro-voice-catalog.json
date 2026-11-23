@@ -1,0 +1,833 @@
+{
+  "source": "https://k2-fsa.github.io/sherpa/onnx/tts/all/Chinese-English/kokoro-multi-lang-v1_1.html",
+  "metadata_sha256": "108ae47594871ba2fe5b9288f41cec4dabe9c5dbadf3a9ee15e7947061028e3d",
+  "model": "Kokoro v1.1-zh INT8",
+  "sample_rate": 24000,
+  "name_note": "中文名为应用昵称，不是真人身份；zf/zm 原始标识和性别来自模型映射。精选为应用入口，不是官方质量排名。",
+  "voices": [
+    {
+      "id": 0,
+      "speaker": "af_maple",
+      "name": "Maple",
+      "gender": "female",
+      "language": "en",
+      "featured": false
+    },
+    {
+      "id": 1,
+      "speaker": "af_sol",
+      "name": "Sol",
+      "gender": "female",
+      "language": "en",
+      "featured": false
+    },
+    {
+      "id": 2,
+      "speaker": "bf_vale",
+      "name": "Vale",
+      "gender": "female",
+      "language": "en",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "speaker": "zf_001",
+      "name": "晓禾",
+      "gender": "female",
+      "language": "zh",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "speaker": "zf_002",
+      "name": "知雨",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "speaker": "zf_003",
+      "name": "知晴",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "speaker": "zf_004",
+      "name": "知月",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 7,
+      "speaker": "zf_005",
+      "name": "知禾",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 8,
+      "speaker": "zf_006",
+      "name": "知溪",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 9,
+      "speaker": "zf_007",
+      "name": "晴音",
+      "gender": "female",
+      "language": "zh",
+      "featured": true
+    },
+    {
+      "id": 10,
+      "speaker": "zf_008",
+      "name": "知音",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 11,
+      "speaker": "zf_017",
+      "name": "若晴",
+      "gender": "female",
+      "language": "zh",
+      "featured": true
+    },
+    {
+      "id": 12,
+      "speaker": "zf_018",
+      "name": "知雪",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 13,
+      "speaker": "zf_019",
+      "name": "知岚",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 14,
+      "speaker": "zf_021",
+      "name": "知瑶",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 15,
+      "speaker": "zf_022",
+      "name": "知宁",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 16,
+      "speaker": "zf_023",
+      "name": "知秋",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 17,
+      "speaker": "zf_024",
+      "name": "知澜",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 18,
+      "speaker": "zf_026",
+      "name": "知晓",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 19,
+      "speaker": "zf_027",
+      "name": "听夏",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 20,
+      "speaker": "zf_028",
+      "name": "听雨",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 21,
+      "speaker": "zf_032",
+      "name": "知夏",
+      "gender": "female",
+      "language": "zh",
+      "featured": true
+    },
+    {
+      "id": 22,
+      "speaker": "zf_036",
+      "name": "听晴",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 23,
+      "speaker": "zf_038",
+      "name": "听月",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 24,
+      "speaker": "zf_039",
+      "name": "听禾",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 25,
+      "speaker": "zf_040",
+      "name": "听溪",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 26,
+      "speaker": "zf_042",
+      "name": "听音",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 27,
+      "speaker": "zf_043",
+      "name": "听雪",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 28,
+      "speaker": "zf_044",
+      "name": "听岚",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 29,
+      "speaker": "zf_046",
+      "name": "听瑶",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 30,
+      "speaker": "zf_047",
+      "name": "听宁",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 31,
+      "speaker": "zf_048",
+      "name": "听秋",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 32,
+      "speaker": "zf_049",
+      "name": "听澜",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 33,
+      "speaker": "zf_051",
+      "name": "听晓",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 34,
+      "speaker": "zf_059",
+      "name": "若夏",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 35,
+      "speaker": "zf_060",
+      "name": "若雨",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 36,
+      "speaker": "zf_067",
+      "name": "若月",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 37,
+      "speaker": "zf_070",
+      "name": "若禾",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 38,
+      "speaker": "zf_071",
+      "name": "若溪",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 39,
+      "speaker": "zf_072",
+      "name": "若音",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 40,
+      "speaker": "zf_073",
+      "name": "若雪",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 41,
+      "speaker": "zf_074",
+      "name": "若岚",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 42,
+      "speaker": "zf_075",
+      "name": "若瑶",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 43,
+      "speaker": "zf_076",
+      "name": "若宁",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 44,
+      "speaker": "zf_077",
+      "name": "若秋",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 45,
+      "speaker": "zf_078",
+      "name": "若澜",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 46,
+      "speaker": "zf_079",
+      "name": "若晓",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 47,
+      "speaker": "zf_083",
+      "name": "沐夏",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 48,
+      "speaker": "zf_084",
+      "name": "沐雨",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 49,
+      "speaker": "zf_085",
+      "name": "沐晴",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 50,
+      "speaker": "zf_086",
+      "name": "沐月",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 51,
+      "speaker": "zf_087",
+      "name": "沐禾",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 52,
+      "speaker": "zf_088",
+      "name": "沐溪",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 53,
+      "speaker": "zf_090",
+      "name": "沐音",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 54,
+      "speaker": "zf_092",
+      "name": "沐雪",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 55,
+      "speaker": "zf_093",
+      "name": "沐岚",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 56,
+      "speaker": "zf_094",
+      "name": "沐瑶",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 57,
+      "speaker": "zf_099",
+      "name": "沐宁",
+      "gender": "female",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 58,
+      "speaker": "zm_009",
+      "name": "景川",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 59,
+      "speaker": "zm_010",
+      "name": "云舟",
+      "gender": "male",
+      "language": "zh",
+      "featured": true
+    },
+    {
+      "id": 60,
+      "speaker": "zm_011",
+      "name": "景舟",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 61,
+      "speaker": "zm_012",
+      "name": "景辰",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 62,
+      "speaker": "zm_013",
+      "name": "景言",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 63,
+      "speaker": "zm_014",
+      "name": "景山",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 64,
+      "speaker": "zm_015",
+      "name": "景林",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 65,
+      "speaker": "zm_016",
+      "name": "景安",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 66,
+      "speaker": "zm_020",
+      "name": "景明",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 67,
+      "speaker": "zm_025",
+      "name": "景风",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 68,
+      "speaker": "zm_029",
+      "name": "景然",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 69,
+      "speaker": "zm_030",
+      "name": "云川",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 70,
+      "speaker": "zm_031",
+      "name": "云辰",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 71,
+      "speaker": "zm_033",
+      "name": "云言",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 72,
+      "speaker": "zm_034",
+      "name": "云山",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 73,
+      "speaker": "zm_035",
+      "name": "云林",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 74,
+      "speaker": "zm_037",
+      "name": "云安",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 75,
+      "speaker": "zm_041",
+      "name": "远川",
+      "gender": "male",
+      "language": "zh",
+      "featured": true
+    },
+    {
+      "id": 76,
+      "speaker": "zm_045",
+      "name": "云明",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 77,
+      "speaker": "zm_050",
+      "name": "云风",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 78,
+      "speaker": "zm_052",
+      "name": "云然",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 79,
+      "speaker": "zm_053",
+      "name": "远舟",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 80,
+      "speaker": "zm_054",
+      "name": "远辰",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 81,
+      "speaker": "zm_055",
+      "name": "远言",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 82,
+      "speaker": "zm_056",
+      "name": "远山",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 83,
+      "speaker": "zm_057",
+      "name": "远林",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 84,
+      "speaker": "zm_058",
+      "name": "远安",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 85,
+      "speaker": "zm_061",
+      "name": "远明",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 86,
+      "speaker": "zm_062",
+      "name": "远风",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 87,
+      "speaker": "zm_063",
+      "name": "远然",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 88,
+      "speaker": "zm_064",
+      "name": "清川",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 89,
+      "speaker": "zm_065",
+      "name": "清舟",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 90,
+      "speaker": "zm_066",
+      "name": "清辰",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 91,
+      "speaker": "zm_068",
+      "name": "清言",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 92,
+      "speaker": "zm_069",
+      "name": "清山",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 93,
+      "speaker": "zm_080",
+      "name": "清林",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 94,
+      "speaker": "zm_081",
+      "name": "男声094",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 95,
+      "speaker": "zm_082",
+      "name": "男声095",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 96,
+      "speaker": "zm_089",
+      "name": "男声096",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 97,
+      "speaker": "zm_091",
+      "name": "男声097",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 98,
+      "speaker": "zm_095",
+      "name": "男声098",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 99,
+      "speaker": "zm_096",
+      "name": "男声099",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 100,
+      "speaker": "zm_097",
+      "name": "男声100",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 101,
+      "speaker": "zm_098",
+      "name": "男声101",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    },
+    {
+      "id": 102,
+      "speaker": "zm_100",
+      "name": "男声102",
+      "gender": "male",
+      "language": "zh",
+      "featured": false
+    }
+  ]
+}

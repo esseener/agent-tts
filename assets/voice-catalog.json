@@ -1,0 +1,1573 @@
+{
+  "source": "https://huggingface.co/datasets/AISHELL/AISHELL-3/resolve/466cda9f8c6677e6c25a80eb9bf5e989ea192d37/spk-info.txt",
+  "metadata_sha256": "86148f95beab318ad9d08bf945b1d56ffba8c97b09137ae784cc62b0cd6539ef",
+  "name_note": "中文名为 Agent Voice 界面昵称，不是真实姓名；性别和编号来自公开资料。",
+  "voices": [
+    {
+      "id": 0,
+      "speaker": "SSB0005",
+      "name": "知夏",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 1,
+      "speaker": "SSB0009",
+      "name": "知雨",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 2,
+      "speaker": "SSB0011",
+      "name": "知晴",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "speaker": "SSB0012",
+      "name": "知月",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "speaker": "SSB0016",
+      "name": "知禾",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "speaker": "SSB0018",
+      "name": "知溪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "speaker": "SSB0033",
+      "name": "知音",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 7,
+      "speaker": "SSB0038",
+      "name": "知雪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 8,
+      "speaker": "SSB0043",
+      "name": "知岚",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 9,
+      "speaker": "SSB0057",
+      "name": "知瑶",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 10,
+      "speaker": "SSB0073",
+      "name": "景川",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": true
+    },
+    {
+      "id": 11,
+      "speaker": "SSB0080",
+      "name": "知宁",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 12,
+      "speaker": "SSB0112",
+      "name": "知秋",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 13,
+      "speaker": "SSB0122",
+      "name": "知澜",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 14,
+      "speaker": "SSB0133",
+      "name": "知晓",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 15,
+      "speaker": "SSB0139",
+      "name": "景舟",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 16,
+      "speaker": "SSB0145",
+      "name": "听夏",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 17,
+      "speaker": "SSB0149",
+      "name": "听雨",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 18,
+      "speaker": "SSB0193",
+      "name": "听晴",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 19,
+      "speaker": "SSB0197",
+      "name": "听月",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 20,
+      "speaker": "SSB0200",
+      "name": "听禾",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 21,
+      "speaker": "SSB0241",
+      "name": "景辰",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": true
+    },
+    {
+      "id": 22,
+      "speaker": "SSB0246",
+      "name": "听溪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 23,
+      "speaker": "SSB0261",
+      "name": "景言",
+      "gender": "male",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 24,
+      "speaker": "SSB0267",
+      "name": "听音",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 25,
+      "speaker": "SSB0273",
+      "name": "景山",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 26,
+      "speaker": "SSB0287",
+      "name": "听雪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 27,
+      "speaker": "SSB0288",
+      "name": "听岚",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 28,
+      "speaker": "SSB0299",
+      "name": "听瑶",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 29,
+      "speaker": "SSB0307",
+      "name": "听宁",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 30,
+      "speaker": "SSB0309",
+      "name": "听秋",
+      "gender": "female",
+      "age_group": "D",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 31,
+      "speaker": "SSB0315",
+      "name": "听澜",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 32,
+      "speaker": "SSB0316",
+      "name": "景林",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 33,
+      "speaker": "SSB0323",
+      "name": "听晓",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": true
+    },
+    {
+      "id": 34,
+      "speaker": "SSB0338",
+      "name": "若夏",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 35,
+      "speaker": "SSB0339",
+      "name": "若雨",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 36,
+      "speaker": "SSB0341",
+      "name": "若晴",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 37,
+      "speaker": "SSB0342",
+      "name": "若月",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "others",
+      "featured": false
+    },
+    {
+      "id": 38,
+      "speaker": "SSB0354",
+      "name": "若禾",
+      "gender": "female",
+      "age_group": "D",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 39,
+      "speaker": "SSB0366",
+      "name": "若溪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 40,
+      "speaker": "SSB0375",
+      "name": "景安",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 41,
+      "speaker": "SSB0379",
+      "name": "若音",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": true
+    },
+    {
+      "id": 42,
+      "speaker": "SSB0380",
+      "name": "若雪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 43,
+      "speaker": "SSB0382",
+      "name": "若岚",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 44,
+      "speaker": "SSB0385",
+      "name": "若瑶",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 45,
+      "speaker": "SSB0393",
+      "name": "若宁",
+      "gender": "female",
+      "age_group": "A",
+      "accent": "north",
+      "featured": true
+    },
+    {
+      "id": 46,
+      "speaker": "SSB0394",
+      "name": "景明",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 47,
+      "speaker": "SSB0395",
+      "name": "若秋",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 48,
+      "speaker": "SSB0407",
+      "name": "景风",
+      "gender": "male",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 49,
+      "speaker": "SSB0415",
+      "name": "若澜",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 50,
+      "speaker": "SSB0426",
+      "name": "若晓",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 51,
+      "speaker": "SSB0427",
+      "name": "沐夏",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 52,
+      "speaker": "SSB0434",
+      "name": "景然",
+      "gender": "male",
+      "age_group": "D",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 53,
+      "speaker": "SSB0435",
+      "name": "沐雨",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 54,
+      "speaker": "SSB0470",
+      "name": "沐晴",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 55,
+      "speaker": "SSB0482",
+      "name": "沐月",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 56,
+      "speaker": "SSB0502",
+      "name": "沐禾",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 57,
+      "speaker": "SSB0534",
+      "name": "沐溪",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 58,
+      "speaker": "SSB0535",
+      "name": "云川",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 59,
+      "speaker": "SSB0539",
+      "name": "沐音",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 60,
+      "speaker": "SSB0544",
+      "name": "云舟",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 61,
+      "speaker": "SSB0565",
+      "name": "沐雪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 62,
+      "speaker": "SSB0570",
+      "name": "沐岚",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 63,
+      "speaker": "SSB0578",
+      "name": "沐瑶",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 64,
+      "speaker": "SSB0588",
+      "name": "沐宁",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 65,
+      "speaker": "SSB0590",
+      "name": "云辰",
+      "gender": "male",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 66,
+      "speaker": "SSB0594",
+      "name": "沐秋",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": true
+    },
+    {
+      "id": 67,
+      "speaker": "SSB0599",
+      "name": "沐澜",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 68,
+      "speaker": "SSB0601",
+      "name": "沐晓",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 69,
+      "speaker": "SSB0603",
+      "name": "云言",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 70,
+      "speaker": "SSB0606",
+      "name": "星夏",
+      "gender": "female",
+      "age_group": "D",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 71,
+      "speaker": "SSB0607",
+      "name": "星雨",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 72,
+      "speaker": "SSB0609",
+      "name": "云山",
+      "gender": "male",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 73,
+      "speaker": "SSB0614",
+      "name": "星晴",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 74,
+      "speaker": "SSB0623",
+      "name": "云林",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 75,
+      "speaker": "SSB0629",
+      "name": "云安",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 76,
+      "speaker": "SSB0631",
+      "name": "云明",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 77,
+      "speaker": "SSB0632",
+      "name": "星月",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 78,
+      "speaker": "SSB0666",
+      "name": "星禾",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 79,
+      "speaker": "SSB0668",
+      "name": "星溪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 80,
+      "speaker": "SSB0671",
+      "name": "星音",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 81,
+      "speaker": "SSB0686",
+      "name": "星雪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 82,
+      "speaker": "SSB0700",
+      "name": "星岚",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 83,
+      "speaker": "SSB0710",
+      "name": "云风",
+      "gender": "male",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 84,
+      "speaker": "SSB0720",
+      "name": "星瑶",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 85,
+      "speaker": "SSB0723",
+      "name": "星宁",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 86,
+      "speaker": "SSB0737",
+      "name": "星秋",
+      "gender": "female",
+      "age_group": "D",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 87,
+      "speaker": "SSB0746",
+      "name": "星澜",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 88,
+      "speaker": "SSB0748",
+      "name": "星晓",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 89,
+      "speaker": "SSB0751",
+      "name": "清夏",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 90,
+      "speaker": "SSB0758",
+      "name": "清雨",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 91,
+      "speaker": "SSB0760",
+      "name": "清晴",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 92,
+      "speaker": "SSB0762",
+      "name": "清月",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 93,
+      "speaker": "SSB0778",
+      "name": "清禾",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 94,
+      "speaker": "SSB0780",
+      "name": "清溪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 95,
+      "speaker": "SSB0784",
+      "name": "云然",
+      "gender": "male",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 96,
+      "speaker": "SSB0786",
+      "name": "清音",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 97,
+      "speaker": "SSB0794",
+      "name": "清雪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 98,
+      "speaker": "SSB0817",
+      "name": "远川",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 99,
+      "speaker": "SSB0851",
+      "name": "清岚",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": true
+    },
+    {
+      "id": 100,
+      "speaker": "SSB0863",
+      "name": "远舟",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 101,
+      "speaker": "SSB0871",
+      "name": "清瑶",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 102,
+      "speaker": "SSB0887",
+      "name": "远辰",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 103,
+      "speaker": "SSB0913",
+      "name": "清宁",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": true
+    },
+    {
+      "id": 104,
+      "speaker": "SSB0915",
+      "name": "清秋",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 105,
+      "speaker": "SSB0919",
+      "name": "清澜",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 106,
+      "speaker": "SSB0935",
+      "name": "清晓",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 107,
+      "speaker": "SSB0966",
+      "name": "远言",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 108,
+      "speaker": "SSB0987",
+      "name": "语夏",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 109,
+      "speaker": "SSB1008",
+      "name": "语雨",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 110,
+      "speaker": "SSB1020",
+      "name": "远山",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 111,
+      "speaker": "SSB1024",
+      "name": "语晴",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 112,
+      "speaker": "SSB1050",
+      "name": "语月",
+      "gender": "female",
+      "age_group": "D",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 113,
+      "speaker": "SSB1055",
+      "name": "语禾",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 114,
+      "speaker": "SSB1056",
+      "name": "语溪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 115,
+      "speaker": "SSB1064",
+      "name": "语音",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 116,
+      "speaker": "SSB1072",
+      "name": "语雪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 117,
+      "speaker": "SSB1091",
+      "name": "语岚",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 118,
+      "speaker": "SSB1096",
+      "name": "语瑶",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 119,
+      "speaker": "SSB1100",
+      "name": "远林",
+      "gender": "male",
+      "age_group": "C",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 120,
+      "speaker": "SSB1108",
+      "name": "语宁",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 121,
+      "speaker": "SSB1115",
+      "name": "语秋",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 122,
+      "speaker": "SSB1125",
+      "name": "语澜",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 123,
+      "speaker": "SSB1131",
+      "name": "语晓",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 124,
+      "speaker": "SSB1136",
+      "name": "远安",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 125,
+      "speaker": "SSB1138",
+      "name": "晚夏",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 126,
+      "speaker": "SSB1161",
+      "name": "晚雨",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 127,
+      "speaker": "SSB1203",
+      "name": "晚晴",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 128,
+      "speaker": "SSB1204",
+      "name": "晚月",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 129,
+      "speaker": "SSB1218",
+      "name": "晚禾",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 130,
+      "speaker": "SSB1221",
+      "name": "晚溪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 131,
+      "speaker": "SSB1253",
+      "name": "晚音",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 132,
+      "speaker": "SSB1320",
+      "name": "晚雪",
+      "gender": "female",
+      "age_group": "D",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 133,
+      "speaker": "SSB1341",
+      "name": "晚岚",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 134,
+      "speaker": "SSB1366",
+      "name": "晚瑶",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 135,
+      "speaker": "SSB1377",
+      "name": "晚宁",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 136,
+      "speaker": "SSB1383",
+      "name": "远明",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 137,
+      "speaker": "SSB1385",
+      "name": "晚秋",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 138,
+      "speaker": "SSB1392",
+      "name": "晚澜",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 139,
+      "speaker": "SSB1393",
+      "name": "晚晓",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 140,
+      "speaker": "SSB1408",
+      "name": "远风",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 141,
+      "speaker": "SSB1431",
+      "name": "初夏",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 142,
+      "speaker": "SSB1437",
+      "name": "初雨",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 143,
+      "speaker": "SSB1448",
+      "name": "远然",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 144,
+      "speaker": "SSB1555",
+      "name": "初晴",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 145,
+      "speaker": "SSB1563",
+      "name": "初月",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 146,
+      "speaker": "SSB1567",
+      "name": "初禾",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "others",
+      "featured": false
+    },
+    {
+      "id": 147,
+      "speaker": "SSB1575",
+      "name": "初溪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 148,
+      "speaker": "SSB1585",
+      "name": "初音",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 149,
+      "speaker": "SSB1593",
+      "name": "初雪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 150,
+      "speaker": "SSB1607",
+      "name": "初岚",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 151,
+      "speaker": "SSB1624",
+      "name": "清川",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 152,
+      "speaker": "SSB1625",
+      "name": "初瑶",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 153,
+      "speaker": "SSB1630",
+      "name": "清舟",
+      "gender": "male",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 154,
+      "speaker": "SSB1650",
+      "name": "初宁",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 155,
+      "speaker": "SSB1670",
+      "name": "初秋",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 156,
+      "speaker": "SSB1684",
+      "name": "清辰",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 157,
+      "speaker": "SSB1686",
+      "name": "初澜",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 158,
+      "speaker": "SSB1699",
+      "name": "初晓",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 159,
+      "speaker": "SSB1711",
+      "name": "云夏",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 160,
+      "speaker": "SSB1759",
+      "name": "云雨",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 161,
+      "speaker": "SSB1806",
+      "name": "云晴",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 162,
+      "speaker": "SSB1828",
+      "name": "云月",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 163,
+      "speaker": "SSB1831",
+      "name": "清言",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 164,
+      "speaker": "SSB1832",
+      "name": "云禾",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 165,
+      "speaker": "SSB1837",
+      "name": "云溪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 166,
+      "speaker": "SSB1846",
+      "name": "云音",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "south",
+      "featured": false
+    },
+    {
+      "id": 167,
+      "speaker": "SSB1863",
+      "name": "清山",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 168,
+      "speaker": "SSB1878",
+      "name": "云雪",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 169,
+      "speaker": "SSB1891",
+      "name": "云岚",
+      "gender": "female",
+      "age_group": "C",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 170,
+      "speaker": "SSB1918",
+      "name": "云瑶",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 171,
+      "speaker": "SSB1935",
+      "name": "清林",
+      "gender": "male",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 172,
+      "speaker": "SSB1939",
+      "name": "云宁",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    },
+    {
+      "id": 173,
+      "speaker": "SSB1956",
+      "name": "云秋",
+      "gender": "female",
+      "age_group": "B",
+      "accent": "north",
+      "featured": false
+    }
+  ]
+}

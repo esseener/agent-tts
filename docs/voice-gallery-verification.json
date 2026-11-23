@@ -1,0 +1,25 @@
+{
+  "fixed_selections": 6,
+  "preview_preserves_settings": true,
+  "apply_preserves_user_content": true,
+  "native_caption_colors": {
+    "35": {
+      "requested": "0x50505",
+      "set_hresult": 0,
+      "get_hresult": "0x80070057"
+    },
+    "36": {
+      "requested": "0xf5f5f5",
+      "set_hresult": 0,
+      "get_hresult": "0x80070057"
+    },
+    "34": {
+      "requested": "0x50505",
+      "set_hresult": 0,
+      "get_hresult": "0x80070057"
+    }
+  },
+  "compact_layout": true,
+  "full_editor_accessible": true,
+  "real_user_settings_unchanged": true
+}

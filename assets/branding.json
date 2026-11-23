@@ -1,0 +1,44 @@
+{
+  "source": "assets/source/chip-double-note-original.png",
+  "source_sha256": "27d801f8888b4dd13358bf60ff156d1bec9c0f7f102276149b49afaba8fc5166",
+  "color": "#FFFFFF",
+  "background": "transparent",
+  "icon_sizes": [
+    16,
+    20,
+    24,
+    32,
+    40,
+    48,
+    64,
+    96,
+    128,
+    256
+  ],
+  "forms": {
+    "logo-white.png": [
+      1024,
+      1024
+    ],
+    "logo.png": [
+      512,
+      512
+    ],
+    "logo-compact-white.png": [
+      512,
+      512
+    ],
+    "logo-horizontal-white.png": [
+      1600,
+      400
+    ],
+    "logo-stacked-white.png": [
+      1024,
+      1152
+    ],
+    "wordmark-white.png": [
+      1280,
+      256
+    ]
+  }
+}

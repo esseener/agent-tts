@@ -1,0 +1,13 @@
+{
+  "version": "0.4.0",
+  "exe_bytes": 2488832,
+  "exe_sha256": "a33e4013dee5438e30532dad2ee90c7f8d1645ad4023e91483c8d522fb0c1363",
+  "zip_bytes": 154449182,
+  "zip_sha256": "bdff7a01a3a5c70124b43123b1990f8d216e1f98e1162219151ab0e63c321d0d",
+  "packaged_files": 405,
+  "onnx_models": 1,
+  "embedded_listening_samples": 10,
+  "crc_verified": true,
+  "old_0_3_0_retained": true,
+  "build_script_utf8_bom": true
+}

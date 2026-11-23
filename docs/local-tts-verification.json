@@ -1,0 +1,33 @@
+{
+  "model": "Kokoro v1.1-zh INT8",
+  "model_bytes": 114203914,
+  "speakers": 103,
+  "resource_bytes": 224875564,
+  "exe_bytes": 2488832,
+  "zip_bytes": 154449182,
+  "cpu_threads": 2,
+  "synthesis_ms": [
+    26170,
+    7883,
+    6991,
+    5619
+  ],
+  "sample_audio_seconds": 4.675,
+  "median_warm_synthesis_ms": 6991,
+  "sample_rate": 24000,
+  "warm_realtime_factor": 1.495,
+  "peak_rss_mb": 608.4,
+  "idle_rss_mb": 13.5,
+  "idle_cpu_percent_one_core": 0.0,
+  "idle_release_seconds": 30,
+  "prepared_phrase_count": 5,
+  "cached_prepare_ms": 0,
+  "no_network_connections": true,
+  "portable_unicode_path": true,
+  "fixed_voice_gui": true,
+  "package_matches": true,
+  "real_user_settings_unchanged": true,
+  "sha256": "a33e4013dee5438e30532dad2ee90c7f8d1645ad4023e91483c8d522fb0c1363",
+  "benchmark_zip_bytes": 154449054,
+  "package_rechecked_after_documentation_update": true
+}

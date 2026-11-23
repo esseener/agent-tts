@@ -1,0 +1,67 @@
+{
+  "version": "0.4.1",
+  "model_absent": true,
+  "inference_runtime_absent": true,
+  "network_blocked": true,
+  "portable_unicode_path": true,
+  "preset_clips": 24,
+  "checked_voice_state_plans": 24,
+  "exact_cached_text_prioritized": true,
+  "volume_zero_is_silent": true,
+  "disabled_route_stays_silent": true,
+  "real_settings_unchanged": true,
+  "timing_boundary": "Process launch to MCI play command; physical device output latency excluded.",
+  "seventy_phrase_preparation_verified": true,
+  "median_launch_to_play_command_ms": 71.13,
+  "maximum_launch_to_play_command_ms": 179.86,
+  "timings": [
+    {
+      "case": "empty-cache-done",
+      "launch_to_play_command_ms": 66.38,
+      "player_process_ms": 51,
+      "sampled_peak_rss_mib": 12.99,
+      "model_loaded": false
+    },
+    {
+      "case": "empty-cache-ask",
+      "launch_to_play_command_ms": 70.57,
+      "player_process_ms": 56,
+      "sampled_peak_rss_mib": 13.26,
+      "model_loaded": false
+    },
+    {
+      "case": "empty-cache-error",
+      "launch_to_play_command_ms": 71.13,
+      "player_process_ms": 57,
+      "sampled_peak_rss_mib": 12.71,
+      "model_loaded": false
+    },
+    {
+      "case": "empty-cache-subagent",
+      "launch_to_play_command_ms": 75.97,
+      "player_process_ms": 59,
+      "sampled_peak_rss_mib": 13.51,
+      "model_loaded": false
+    },
+    {
+      "case": "real-hook-spawn",
+      "launch_to_play_command_ms": 104.32,
+      "player_process_ms": 60,
+      "sampled_peak_rss_mib": 12.18,
+      "model_loaded": false
+    },
+    {
+      "case": "exact-cached-custom-text",
+      "launch_to_play_command_ms": 68.54,
+      "player_process_ms": 46,
+      "sampled_peak_rss_mib": 13.23,
+      "model_loaded": false
+    },
+    {
+      "case": "http-during-real-model-preview",
+      "launch_to_play_command_ms": 179.86,
+      "player_process_ms": 335,
+      "model_preview_running": true
+    }
+  ]
+}

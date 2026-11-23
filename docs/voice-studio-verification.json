@@ -1,0 +1,103 @@
+{
+  "model": "Kokoro v1.1-zh INT8",
+  "named_voices": 103,
+  "female": 58,
+  "male": 45,
+  "built_in_tunings": 7,
+  "tested_speakers": 6,
+  "raw_loudness_spread_db": 5.609911937719865,
+  "processed_loudness_spread_db": 0.373756593217454,
+  "max_gain_test_db": 18,
+  "sample_peak_ceiling_dbfs": -1,
+  "native_sliders": true,
+  "favorites_and_gender_filter": true,
+  "native_preset_export_import": true,
+  "legacy_config_compatible": true,
+  "real_user_settings_unchanged": true,
+  "levels": [
+    {
+      "id": 3,
+      "name": "晓禾",
+      "raw": {
+        "speech_dbfs": -25.1127432386561,
+        "peak_dbfs": -10.312473750106111,
+        "sample_rate": 24000
+      },
+      "processed": {
+        "speech_dbfs": -18.000112235363687,
+        "peak_dbfs": -2.879513786455796,
+        "sample_rate": 24000
+      }
+    },
+    {
+      "id": 59,
+      "name": "云舟",
+      "raw": {
+        "speech_dbfs": -20.579015808806393,
+        "peak_dbfs": -2.868442846046262,
+        "sample_rate": 24000
+      },
+      "processed": {
+        "speech_dbfs": -18.37386882858114,
+        "peak_dbfs": -1.000151903819357,
+        "sample_rate": 24000
+      }
+    },
+    {
+      "id": 9,
+      "name": "晴音",
+      "raw": {
+        "speech_dbfs": -25.825233597157972,
+        "peak_dbfs": -9.079949117450495,
+        "sample_rate": 24000
+      },
+      "processed": {
+        "speech_dbfs": -18.000663742915627,
+        "peak_dbfs": -1.9821808877047455,
+        "sample_rate": 24000
+      }
+    },
+    {
+      "id": 75,
+      "name": "远川",
+      "raw": {
+        "speech_dbfs": -24.942413279486427,
+        "peak_dbfs": -8.67341416384369,
+        "sample_rate": 24000
+      },
+      "processed": {
+        "speech_dbfs": -18.00013352678241,
+        "peak_dbfs": -3.24683817623135,
+        "sample_rate": 24000
+      }
+    },
+    {
+      "id": 21,
+      "name": "知夏",
+      "raw": {
+        "speech_dbfs": -22.846256009084204,
+        "peak_dbfs": -5.021615998162031,
+        "sample_rate": 24000
+      },
+      "processed": {
+        "speech_dbfs": -18.00035939152079,
+        "peak_dbfs": -1.9476154283611604,
+        "sample_rate": 24000
+      }
+    },
+    {
+      "id": 11,
+      "name": "若晴",
+      "raw": {
+        "speech_dbfs": -26.188927746526257,
+        "peak_dbfs": -10.459695743033492,
+        "sample_rate": 24000
+      },
+      "processed": {
+        "speech_dbfs": -18.000408702585013,
+        "peak_dbfs": -3.1100135715370407,
+        "sample_rate": 24000
+      }
+    }
+  ]
+}

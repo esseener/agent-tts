@@ -1,0 +1,38 @@
+# Build artifacts
+.build/
+target/
+__pycache__/
+*.pyc
+
+# Release packages
+dist/
+releases/
+*.zip
+
+# Runtime models and resources (downloaded/generated, not source)
+resources/
+
+# Compiled executables
+*.exe
+*.dll
+*.onnx
+*.bin
+
+# Generated audio / verification artifacts
+*.wav
+*.mp3
+*.flac
+docs/verification-*/
+docs/previews/*.png
+
+# Old desktop implementations kept for reference only
+archive/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.log
+
+# Temp files
+*.tmp
+*.part
